@@ -1,2 +1,3 @@
 # JavaScript-Primer-Projects
-Foraying into the world of web development
+
+A simple to-do list implemented using vanilla JavaScript.
